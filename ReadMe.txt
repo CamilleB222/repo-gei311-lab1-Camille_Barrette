@@ -1,3 +1,5 @@
+Laboratoire 1 Camille Barrette
+
 Dans ce laboratoire, j'ai appris : 
 - À ajouter un repo déjà existant sur GitHub
 - Revenir à une version antérieur du repo
